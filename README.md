@@ -2,7 +2,7 @@ The application is built with Node.js and Express and serves as a social media p
 
 Register:
 - A new user accesses the application and completes a registration form.
-- he user-provided information (such as name, email address, and password) is sent to the server.
+- the user-provided information (such as name, email address, and password) is sent to the server.
 - On the server, the information is validated to ensure it is in the correct format and that the email address is not already in use.
 - If all information is valid, the account is created in the database, and the user receives a response confirming the registration was successful.
 
